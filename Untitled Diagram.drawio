@@ -1,1 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T08:05:22.037Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" version="18.1.2" etag="PayTk-umUqtWkPeoYVY4" type="github"><diagram id="P4gQDNJ1n4mMOo5mYW3R">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-24T08:12:22.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="OIGCOfif6igP7BlTyBCv" version="18.1.2" type="github">
+  <diagram id="P4gQDNJ1n4mMOo5mYW3R" name="Page-1">
+    <mxGraphModel dx="1422" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6u-T-0kND51K_XEgAGkw-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6u-T-0kND51K_XEgAGkw-1" target="6u-T-0kND51K_XEgAGkw-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6u-T-0kND51K_XEgAGkw-1" value="Пользователь" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6u-T-0kND51K_XEgAGkw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6u-T-0kND51K_XEgAGkw-2" target="6u-T-0kND51K_XEgAGkw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6u-T-0kND51K_XEgAGkw-2" value="Пользователь" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6u-T-0kND51K_XEgAGkw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6u-T-0kND51K_XEgAGkw-3" target="6u-T-0kND51K_XEgAGkw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6u-T-0kND51K_XEgAGkw-3" value="Пользователь" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6u-T-0kND51K_XEgAGkw-4" value="Система хранения данных" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;" vertex="1" parent="1">
+          <mxGeometry x="364" y="-10" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6u-T-0kND51K_XEgAGkw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6u-T-0kND51K_XEgAGkw-5" target="6u-T-0kND51K_XEgAGkw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6u-T-0kND51K_XEgAGkw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6u-T-0kND51K_XEgAGkw-5" target="6u-T-0kND51K_XEgAGkw-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6u-T-0kND51K_XEgAGkw-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6u-T-0kND51K_XEgAGkw-5" target="6u-T-0kND51K_XEgAGkw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6u-T-0kND51K_XEgAGkw-5" value="WEB-Сервер" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.web_server;" vertex="1" parent="1">
+          <mxGeometry x="361" y="182.5" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="6u-T-0kND51K_XEgAGkw-6" value="Модуль автоматического&lt;br&gt;&amp;nbsp;модерирования" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.desktop_pc;" vertex="1" parent="1">
+          <mxGeometry x="560" y="65" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6u-T-0kND51K_XEgAGkw-7" value="Модуль автоматической&lt;br&gt;&amp;nbsp;классификации" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.desktop_pc;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="50" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
